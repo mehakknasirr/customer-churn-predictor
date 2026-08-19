@@ -16,14 +16,18 @@ Customer retention is a primary driver of long-term profitability for subscripti
  Evaluation Metrics: Evaluated on accuracy and ROC-AUC score to ensure balanced prediction capability across both churned and retained customer classes.
  
 🚀 How to Run Locally
+
 1. Clone the Repository
+
 git clone https://github.com/mehakknasirr/customer-churn-predictor.git
 cd customer-churn-predictor
 
-2. Install Dependencies
+3. Install Dependencies
+   
 pip install -r requirements.txt
 
-3. Run the Streamlit App
+5. Run the Streamlit App
+   
 streamlit run app.py
 
 📁 Repository Structure
