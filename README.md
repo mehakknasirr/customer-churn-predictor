@@ -36,3 +36,8 @@ streamlit run app.py
 ├── Customer_Churn_Prediction.ipynb # End-to-End Data Science Notebook
 ├── requirements.txt               # Application Dependencies
 └── README.md                      # Documentation
+
+
+Streamlit Live App Link:
+
+  https://customer-churn-predictor-pvxndrbipgquvcx4uqx4xz.streamlit.app
